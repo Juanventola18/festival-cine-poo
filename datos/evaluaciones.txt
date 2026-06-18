@@ -1,0 +1,41 @@
+=== Volver (promedio: 8.20) ===
+  Puntaje: 9 | Jurado: María Fernández ID:1
+  Puntaje: 8 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 9 | Jurado: Luciana Torres ID:3
+  Puntaje: 7 | Jurado: Roberto Sánchez ID:4
+  Puntaje: 8 | Jurado: Ana Gómez ID:5
+=== Roma (promedio: 9.20) ===
+  Puntaje: 10 | Jurado: María Fernández ID:1
+  Puntaje: 9 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 10 | Jurado: Luciana Torres ID:3
+  Puntaje: 8 | Jurado: Roberto Sánchez ID:4
+  Puntaje: 9 | Jurado: Ana Gómez ID:5
+=== El laberinto del fauno (promedio: 8.00) ===
+  Puntaje: 8 | Jurado: María Fernández ID:1
+  Puntaje: 9 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 7 | Jurado: Luciana Torres ID:3
+  Puntaje: 8 | Jurado: Roberto Sánchez ID:4
+=== La ciénaga (promedio: 7.00) ===
+  Puntaje: 7 | Jurado: María Fernández ID:1
+  Puntaje: 6 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 8 | Jurado: Luciana Torres ID:3
+=== El secreto de sus ojos (promedio: 9.00) ===
+  Puntaje: 9 | Jurado: María Fernández ID:1
+  Puntaje: 10 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 9 | Jurado: Luciana Torres ID:3
+  Puntaje: 8 | Jurado: Roberto Sánchez ID:4
+  Puntaje: 9 | Jurado: Ana Gómez ID:5
+=== Y tu mamá también (promedio: 8.00) ===
+  Puntaje: 8 | Jurado: María Fernández ID:1
+  Puntaje: 7 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 8 | Jurado: Luciana Torres ID:3
+  Puntaje: 9 | Jurado: Roberto Sánchez ID:4
+=== Carancho (promedio: 7.00) ===
+  Puntaje: 7 | Jurado: María Fernández ID:1
+  Puntaje: 8 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 6 | Jurado: Luciana Torres ID:3
+=== Todo sobre mi madre (promedio: 8.25) ===
+  Puntaje: 9 | Jurado: María Fernández ID:1
+  Puntaje: 8 | Jurado: Carlos Mendoza ID:2
+  Puntaje: 9 | Jurado: Luciana Torres ID:3
+  Puntaje: 7 | Jurado: Roberto Sánchez ID:4

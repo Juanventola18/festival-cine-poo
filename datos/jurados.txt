@@ -1,0 +1,5 @@
+1;María;Fernández;123456789;maria@festival.com;Crítica de cine
+2;Carlos;Mendoza;234567891;carlos@festival.com;Director de fotografía
+3;Luciana;Torres;345678912;luciana@festival.com;Guionista
+4;Roberto;Sánchez;456789123;roberto@festival.com;Productor
+5;Ana;Gómez;567891234;ana@festival.com;Actriz

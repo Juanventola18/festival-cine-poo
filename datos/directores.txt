@@ -1,0 +1,5 @@
+1;Pedro;Almodóvar;Española;40
+2;Alfonso;Cuarón;Mexicana;35
+3;Guillermo;Del Toro;Mexicana;30
+4;Lucrecia;Martel;Argentina;25
+5;Pablo;Trapero;Argentina;20

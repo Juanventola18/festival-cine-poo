@@ -1,0 +1,8 @@
+6;Penélope;Cruz;Española;Principal;500000.0
+7;Antonio;Banderas;Española;Principal;450000.0
+8;Gael;García;Mexicana;Principal;400000.0
+9;Diego;Luna;Mexicana;Secundario;250000.0
+10;Ricardo;Darín;Argentina;Principal;380000.0
+11;Florencia;Peña;Argentina;Principal;350000.0
+12;Érica;Rivas;Argentina;Secundario;200000.0
+13;Javier;Bardem;Española;Principal;480000.0

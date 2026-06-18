@@ -1,0 +1,8 @@
+1;Volver;110;2006;Drama;1;6,7,;9,Jurado: María Fernández ID:1|8,Jurado: Carlos Mendoza ID:2|9,Jurado: Luciana Torres ID:3|7,Jurado: Roberto Sánchez ID:4|8,Jurado: Ana Gómez ID:5|
+2;Roma;135;2018;Drama;2;8,9,;10,Jurado: María Fernández ID:1|9,Jurado: Carlos Mendoza ID:2|10,Jurado: Luciana Torres ID:3|8,Jurado: Roberto Sánchez ID:4|9,Jurado: Ana Gómez ID:5|
+3;El laberinto del fauno;118;2006;Fantasía;3;13,;8,Jurado: María Fernández ID:1|9,Jurado: Carlos Mendoza ID:2|7,Jurado: Luciana Torres ID:3|8,Jurado: Roberto Sánchez ID:4|
+4;La ciénaga;100;2001;Drama;4;12,;7,Jurado: María Fernández ID:1|6,Jurado: Carlos Mendoza ID:2|8,Jurado: Luciana Torres ID:3|
+5;El secreto de sus ojos;129;2009;Thriller;5;10,11,;9,Jurado: María Fernández ID:1|10,Jurado: Carlos Mendoza ID:2|9,Jurado: Luciana Torres ID:3|8,Jurado: Roberto Sánchez ID:4|9,Jurado: Ana Gómez ID:5|
+6;Y tu mamá también;106;2001;Drama;2;8,9,;8,Jurado: María Fernández ID:1|7,Jurado: Carlos Mendoza ID:2|8,Jurado: Luciana Torres ID:3|9,Jurado: Roberto Sánchez ID:4|
+7;Carancho;107;2010;Thriller;5;10,12,;7,Jurado: María Fernández ID:1|8,Jurado: Carlos Mendoza ID:2|6,Jurado: Luciana Torres ID:3|
+8;Todo sobre mi madre;101;1999;Drama;1;6,7,;9,Jurado: María Fernández ID:1|8,Jurado: Carlos Mendoza ID:2|9,Jurado: Luciana Torres ID:3|7,Jurado: Roberto Sánchez ID:4|

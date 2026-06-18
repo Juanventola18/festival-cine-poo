@@ -1,0 +1,5 @@
+6;Juan;García;6789122345;juan@email.com;0;Platino
+7;Laura;Martínez;7891123456;laura@email.com;0;Estándar
+8;Diego;López;8912345267;diego@email.com;0;Platino
+9;Sofía;Ramírez;9123456789;sofia@email.com;0;Ninguna
+10;Martín;Pérez;1234567890;martin@email.com;0;Ninguna
